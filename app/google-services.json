@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090096279217",
+    "project_id": "medum-chat-demo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090096279217:android:26b6a05b87cf3aa8",
+        "android_client_info": {
+          "package_name": "com.medumchatdemo.examplemac.pasillas.medumchatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090096279217-56pabcsscc8tvn256bnlrfl00dnc4135.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1090096279217-6a7evt5iao3jblcblee1jr3ddfjuk59n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medumchatdemo.examplemac.pasillas.medumchatdemo",
+            "certificate_hash": "2daa1e2c7c918c2bf55024eeef768cec78b86c5b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fHr-Z2ZAelrDswLqOsR_2u-hoKfZV8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
